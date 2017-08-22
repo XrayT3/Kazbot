@@ -1,0 +1,15 @@
+-----------------------------------------------------------
+ERROR 2017-08-17 11:12:51,670 - bot.py: maximum recursion depth exceeded
+<module> - 397
+-----------------------------------------------------------
+ERROR 2017-08-17 11:12:52,337 - bot.py: maximum recursion depth exceeded
+<module> - 397
+-----------------------------------------------------------
+ERROR 2017-08-17 11:12:53,552 - bot.py: maximum recursion depth exceeded
+<module> - 397
+-----------------------------------------------------------
+ERROR 2017-08-17 11:12:55,744 - bot.py: maximum recursion depth exceeded
+<module> - 397
+-----------------------------------------------------------
+ERROR 2017-08-17 11:12:59,993 - bot.py: maximum recursion depth exceeded
+<module> - 397
