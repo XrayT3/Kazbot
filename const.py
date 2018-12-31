@@ -1,6 +1,6 @@
 # -*- coding: utf-*- ?
 
-token = '444480980:AAF_uhxx5VqxOs8bCQ7K-AHnz4pyIyyJgrg'
+token = ''
 
 ask = 'Выбери необходимый тебе вид товаров'
 
